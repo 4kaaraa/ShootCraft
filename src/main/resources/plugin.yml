@@ -1,0 +1,4 @@
+name: Shootcraft
+version: '${project.version}'
+main: fr.kara.heria.shootcraft.Shootcraft
+authors: [kara]

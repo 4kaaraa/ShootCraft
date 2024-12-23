@@ -1,0 +1,4 @@
+name: Shootcraft
+version: '1.0-SNAPSHOT'
+main: fr.kara.heria.shootcraft.Shootcraft
+authors: [kara]
